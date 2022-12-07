@@ -16,43 +16,76 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# 💬 About Me
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, my name is Xinyu Yang (杨心妤), an undergraduate student at Zhejiang University majoring in Computer Science. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a research intern at Stanford advised by [Prof. James Zou](https://www.james-zou.com/). I am doing a project co-advised by [Dr. Nazneen Rajani](https://www.nazneenrajani.com/) from Hugging Face.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+My research interest lies in Machine Learning, Computational Social Science and AI for social good.
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09 - 2023.06 (expected)*, B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
+  - GPA: Overall 90.45/100 (3.95/4.00) Rank: Top 5% among 226 students
+  - Minor: Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University)
 
-# 💬 Invited Talks
+
+
+<!-- # 🔥 News
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><img src='images/MetaShift.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts**]
+
+Weixin Liang*, **Xinyu Yang\***, James Zou
+( * equal contribution)
+
+**Contributed Talk** at **ICML 2022** Workshop on [Shift happens: Crowdsourcing metrics and test datasets beyond
+ImageNet](https://shift-happens-benchmark.github.io/)
+
+[[PDF]](https://openreview.net/forum?id=iuSDDiqacPj), [[Website]](https://metadataset.readthedocs.io/), [[Video]](https://slideslive.com/38987455/metashift-a-dataset-of-datasets-for-evaluating-contextual-distribution-shifts), [[Code]](https://github.com/YoungXinyu1802/icml-2022/tree/main/shifthappens/tasks/imagenet_metashift)
+
+
+- MetaShift introduces a collection of >10K sets of images with annotated contexts. It enables evaluating how ML works in different contexts (e.g. indoor cat vs outdoor cat).
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='images/moonshape.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**On the Nonlinear Correlation of ML Performance Between Data Subpopulation**
+
+Weixin Liang\*, Yining Mao\*, Yongchan Kwon\*, **Xinyu Yang**, James Zou
+( * equal contribution)
+
+**ICML 2022** Workshop on [Principles of Distribution Shift](https://sites.google.com/view/icml-2022-pods/)
+
+**ICML 2022** Workshop on [Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/)
+
+[[PDF]](https://drive.google.com/file/d/1pddWNODuZ3WuyR6tsjhS1HuJE4nWArBn/view?usp=sharing), [[Website]](https://moonshape.readthedocs.io/), [[Video]](https://slideslive.com/38986287/on-the-nonlinear-correlation-of-ml-performance-berween-data-subpopulations), [[Code]](https://anonymous.4open.science/r/moonshape_subpopulation/)
+
+- We show that there is a “moon shape” correlation (parabolic uptrend curve) between the test performance on the majority subpopulation and the minority subpopulation.
+This nonlinear correlations hold across model architectures, training settings, datasets, and the imbalance between subpopulations.
+</div>
+</div>
+
+# 🎖 Honors and Awards
+- *2019 – 2020* National Scholarship (Top 1%)
+- *2019 – 2020* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%) 
+- *2019 – 2020* Outstanding Student Awards in Yunfeng College (15 out of 800 students) 
+- *2020 – 2021* Second-Class Scholarship for Outstanding Students of Zhejiang University (Top 8%)
+- *2021 – 2022* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%) 
+
+
+
+<!-- # 💬 💻Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 🎉 Misc
+- I started learning Chinese Calligraphy (a traditional form of writing characters from the Chinese language through the use of ink and a brush) when I was nine.
+- I love arts and sports. I enjoy painting, photography, table tennis, piano, and classical music.
