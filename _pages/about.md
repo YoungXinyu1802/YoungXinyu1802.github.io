@@ -20,20 +20,20 @@ redirect_from:
 
 Hi, my name is Xinyu Yang (杨心妤), an undergraduate student at Zhejiang University majoring in Computer Science. 
 
-I am a research intern at Stanford advised by [Prof. James Zou](https://www.james-zou.com/). I am doing a project co-advised by [Dr. Nazneen Rajani](https://www.nazneenrajani.com/) from Hugging Face.
+I am a research intern at Stanford AI Lab (https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I am also a research assistant at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://person.zju.edu.cn/en/wufei).
 
 My research interest lies in Machine Learning, Computational Social Science and AI for social good.
 
 # 📖 Educations
 - *2019.09 - 2023.06 (expected)*, B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
-  - GPA: Overall 90.45/100 (3.95/4.00) Rank: Top 5% among 226 students
-  - Minor: Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University)
+  - *GPA:* Overall 90.45/100 (3.95/4.00) *Rank:* Top 5% among 226 students
+  - *TOEFL:* 109 (R: 29, L: 26, S: 24, W: 30)  *GRE:* V157 Q170 AW 4.0
+  - *Minor:* Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University)
 
 
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- Working on a project jointly advised by [Prof. James Zou](https://www.james-zou.com/) (Stanford Univeristy) and [Dr. Nazneen Rajani](https://www.nazneenrajani.com/) (Hugging Face). Will submit soon.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><img src='images/MetaShift.png' alt="sym" width="100%"></div>
