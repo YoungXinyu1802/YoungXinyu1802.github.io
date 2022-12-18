@@ -20,7 +20,7 @@ redirect_from:
 
 Hi, my name is Xinyu Yang (杨心妤), an undergraduate student at Zhejiang University majoring in Computer Science. 
 
-I am a research intern at [Stanford AI Lab] (https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I am also a research assistant at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://person.zju.edu.cn/en/wufei).
+I am a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I am also a research assistant at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://person.zju.edu.cn/en/wufei).
 
 My research interest lies in Machine Learning, Computational Social Science and AI for social good.
 
