@@ -41,7 +41,7 @@ My research interest lies in Machine Learning, Computational Social Science and 
 
 **MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts**]
 
-Weixin Liang*, **Xinyu Yang\***, James Zou
+[Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, **Xinyu Yang\***, [James Zou](https://www.james-zou.com/)
 ( * equal contribution)
 
 **Contributed Talk** at **ICML 2022** Workshop on [Shift happens: Crowdsourcing metrics and test datasets beyond
@@ -59,7 +59,7 @@ ImageNet](https://shift-happens-benchmark.github.io/)
 
 **On the Nonlinear Correlation of ML Performance Between Data Subpopulation**
 
-Weixin Liang\*, Yining Mao\*, Yongchan Kwon\*, **Xinyu Yang**, James Zou
+[Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, Yining Mao\*, [Yongchan Kwon](https://www.yongchanstat.com/)\*, **Xinyu Yang**, [James Zou](https://www.james-zou.com/)
 ( * equal contribution)
 
 **ICML 2022** Workshop on [Principles of Distribution Shift](https://sites.google.com/view/icml-2022-pods/)
