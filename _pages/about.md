@@ -89,4 +89,4 @@ This nonlinear correlations hold across model architectures, training settings, 
 # 🎉 Misc
 - I started learning Chinese Calligraphy (a traditional form of writing characters from the Chinese language through the use of ink and a brush) when I was nine.
 - I love art and sports. I enjoy painting, photography, table tennis, piano, and classical music.
-[gallery](images/gallery.html)
+[gallery](https://youngxinyu1802.github.io/images/gallery.html)
