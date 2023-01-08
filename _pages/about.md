@@ -87,6 +87,5 @@ This nonlinear correlations hold across model architectures, training settings, 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 🎉 Misc
-- I started learning Chinese Calligraphy (a traditional form of writing characters from the Chinese language through the use of ink and a brush) when I was nine.
+- I started learning Chinese Calligraphy (a traditional form of writing characters from the Chinese language through the use of ink and a brush) and sketchy when I was nine. [gallery](images/gallery.png)
 - I love art and sports. I enjoy painting, photography, table tennis, piano, and classical music.
-[gallery](https://youngxinyu1802.github.io/images/gallery.html)
