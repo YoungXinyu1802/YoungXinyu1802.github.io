@@ -66,6 +66,8 @@ ImageNet](https://shift-happens-benchmark.github.io/)
 
 **ICML 2022** Workshop on [Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/)
 
+**AISTATS 2023** under review
+
 [[PDF]](https://drive.google.com/file/d/1pddWNODuZ3WuyR6tsjhS1HuJE4nWArBn/view?usp=sharing), [[Website]](https://moonshape.readthedocs.io/), [[Video]](https://slideslive.com/38986287/on-the-nonlinear-correlation-of-ml-performance-berween-data-subpopulations), [[Code]](https://anonymous.4open.science/r/moonshape_subpopulation/)
 
 - We show that there is a “moon shape” correlation (parabolic uptrend curve) between the test performance on the majority subpopulation and the minority subpopulation.
