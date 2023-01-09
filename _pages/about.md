@@ -22,7 +22,7 @@ Hi, my name is Xinyu Yang (杨心妤), a senior undergraduate student at Zhejian
 
 I am fortunate to be a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I am also a research assistant at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://person.zju.edu.cn/en/wufei).
 
-My research interest lies in Machine Learning, Computational Social Science and AI for social good. I have a strong passion for applying and developing cutting-edge tools to understand the fundamental questions about individuals and collectives, unpack major problems and thereby address substantive questions both in the scientific and social realms.
+My research interest lies in Machine Learning, Computational Social Science and AI for social good.  I would like to explore how to improve machines’ robustness and utilize AI for social good. I have a strong passion for applying and developing cutting-edge tools to understand the fundamental questions about individuals and collectives, unpack major problems and thereby address substantive questions both in the scientific and social realms.
 
 # 📖 Educations
 - *2019.09 - 2023.06 (expected)*, B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
