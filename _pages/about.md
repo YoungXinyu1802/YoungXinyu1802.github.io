@@ -50,7 +50,9 @@ ImageNet](https://shift-happens-benchmark.github.io/)
 [[PDF]](https://openreview.net/forum?id=iuSDDiqacPj), [[Website]](https://metadataset.readthedocs.io/), [[Video]](https://slideslive.com/38987455/metashift-a-dataset-of-datasets-for-evaluating-contextual-distribution-shifts), [[Code]](https://github.com/YoungXinyu1802/icml-2022/tree/main/shifthappens/tasks/imagenet_metashift)
 
 
-- MetaShift introduces a collection of >10K sets of images with annotated contexts. It enables evaluating how ML works in different contexts (e.g. indoor cat vs outdoor cat).
+- MetaShift introduces a collection of >10K sets of images with annotated contexts. It enables evaluating how ML works in different contexts (e.g. indoor cat vs outdoor cat). 
+- We provided a distance score that measures the amount of distribution shift between any two of the data sets.
+- We presented methods to match labels to ImageNet hierarchy via WordNet ID and construct classification tasks over MetaShift to enable evaluating off-the-shelf ImageNet models.
 </div>
 </div>
 
