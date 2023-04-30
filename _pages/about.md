@@ -14,8 +14,8 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
+# Oop! I am still working on this page. Please come back later. 😄
+<!-- <span class='anchor' id='about-me'></span>
 # 💬 About Me
 
 Hi, my name is Xinyu Yang (杨心妤), a senior undergraduate student at Zhejiang University majoring in Computer Science. 
@@ -28,18 +28,19 @@ My research interest lies in Machine Learning, Computational Social Science and 
 - *2019.09 - 2023.06 (expected)*, B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
   - *GPA:* Overall 90.45/100 (3.95/4.00); *Rank:* Top 5% among 226 students
   - *TOEFL:* 109 (R: 29, L: 26, S: 24, W: 30);  *GRE:* V157 Q170 AW4.0
-  - *Minor:* Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University)
+  - *Minor:* Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University) -->
 
 
 
 <!-- # 🔥 News
 - Working on a project jointly advised by [Prof. James Zou](https://www.james-zou.com/) (Stanford Univeristy) and [Dr. Nazneen Rajani](https://www.nazneenrajani.com/) (Hugging Face). Will submit soon. -->
 
-# 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><img src='images/MetaShift.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
 
-**MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts**]
+<!-- # 📝 Publications  -->
+<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/MetaShift.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1"> -->
+
+<!-- **MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts**]
 
 [Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, **Xinyu Yang\***, [James Zou](https://www.james-zou.com/)
 ( * equal contribution)
@@ -82,7 +83,7 @@ This nonlinear correlations hold across model architectures, training settings, 
 - *2019 – 2020* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%) 
 - *2019 – 2020* Outstanding Student Awards in Yunfeng College (15 out of 800 students) 
 - *2020 – 2021* Second-Class Scholarship for Outstanding Students of Zhejiang University (Top 8%)
-- *2021 – 2022* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%) 
+- *2021 – 2022* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%)  -->
 
 
 
@@ -90,6 +91,6 @@ This nonlinear correlations hold across model architectures, training settings, 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 🎉 Misc
+<!-- # 🎉 Misc
 - I started learning Chinese Calligraphy (a traditional form of writing characters from the Chinese language through the use of ink and a brush) and sketchy when I was nine. [\[Gallery\]](images/gallery.png)
-- I love art and sports. I enjoy painting, photography, table tennis, piano, and classical music.
+- I love art and sports. I enjoy painting, photography, table tennis, piano, and classical music. -->
