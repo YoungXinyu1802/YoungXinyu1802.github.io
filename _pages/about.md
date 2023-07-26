@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 <!-- # Oop! I am updating this page. Please come back later. 😄 -->
--- <span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span>
 # 💬 About Me
 
 Hi, my name is Xinyu Yang (杨心妤), an incoming Information Science PhD student at Cornell University.
@@ -28,7 +28,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 Through this, I aim to apply and develop cutting-edge tools to understand the fundamental questions about individuals and collectives, unpack major problems and thereby address substantive questions both in the scientific and social realms.
 
 # 📖 Educations
-- *2019.09 - 2023.06, B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
+- *2019.09 - 2023.06*, B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
   - *GPA:* Overall 90.19/100 (3.95/4.00); *Rank:* Top 5% among 226 students
   - *Minor:* Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University)
 
@@ -38,7 +38,7 @@ Through this, I aim to apply and develop cutting-edge tools to understand the fu
 - Working on a project jointly advised by [Prof. James Zou](https://www.james-zou.com/) (Stanford Univeristy) and [Dr. Nazneen Rajani](https://www.nazneenrajani.com/) (Hugging Face). Will submit soon. -->
 
 
-# 📝 Publications  -->
+# 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/moonshape.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
