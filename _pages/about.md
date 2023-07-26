@@ -40,7 +40,7 @@ Through this, I aim to apply and develop cutting-edge tools to understand the fu
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/moonshape.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/moonshape.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **Accuracy on the Curve: On the Nonlinear Correlation of ML Performance Between Data Subpopulation**
@@ -61,8 +61,9 @@ This nonlinear correlations hold across model architectures, training settings, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/MetaShift.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022 Workshop</div><img src='images/MetaShift.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1"> 
+
 
  **MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts**
 
