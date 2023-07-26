@@ -79,6 +79,7 @@ ImageNet](https://shift-happens-benchmark.github.io/)
 - We provided a distance score that measures the amount of distribution shift between any two of the data sets.
 - We presented methods to match labels to ImageNet hierarchy via WordNet ID and construct classification tasks over MetaShift to enable evaluating off-the-shelf ImageNet models.
 </div>
+</div>
 
 
 # 🎖 Honors and Awards
