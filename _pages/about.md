@@ -64,7 +64,7 @@ This nonlinear correlations hold across model architectures, training settings, 
 <div class='paper-box'><div class='paper-box-image'><img src='images/MetaShift.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1"> 
 
- **MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts**]
+ **MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts**
 
 [Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, **Xinyu Yang\***, [James Zou](https://www.james-zou.com/)
 ( * equal contribution)
@@ -79,7 +79,7 @@ ImageNet](https://shift-happens-benchmark.github.io/)
 - We provided a distance score that measures the amount of distribution shift between any two of the data sets.
 - We presented methods to match labels to ImageNet hierarchy via WordNet ID and construct classification tasks over MetaShift to enable evaluating off-the-shelf ImageNet models.
 </div>
-</div>
+
 
 # 🎖 Honors and Awards
 - *2022 - 2023* Outstanding Graduates of Zhejiang Province
