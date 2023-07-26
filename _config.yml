@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xinyu Yang"
-description              : "Undergraduate student at Zhejiang University."
+description              : "Incoming Ph.D. student in Information Science at Cornell University"
 repository               : "YoungXinyu1802/YoungXinyu1802.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xinyu Yang"
   avatar           : "images/Xinyu_Yang.jpg"
-  bio              : "Zhejiang University"
-  location         : "Zhejiang, China"
+  bio              : "Cornell University"
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
