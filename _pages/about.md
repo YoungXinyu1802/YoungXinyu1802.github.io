@@ -49,6 +49,7 @@ Through this, I aim to apply and develop cutting-edge tools to understand the fu
 ( * equal contribution)
 
 **ICML 2023**
+
 <!-- **ICML 2022** Workshop on [Principles of Distribution Shift](https://sites.google.com/view/icml-2022-pods/)
 
 **ICML 2022** Workshop on [Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/) -->
@@ -61,7 +62,7 @@ This nonlinear correlations hold across model architectures, training settings, 
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/MetaShift.png' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1"> -->
+<div class='paper-box-text' markdown="1"> 
 
  **MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts**]
 
