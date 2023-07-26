@@ -43,7 +43,7 @@ Through this, I aim to apply and develop cutting-edge tools to understand the fu
 <div class='paper-box'><div class='paper-box-image'><img src='images/moonshape.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-**AccuracyontheCurve: On the Nonlinear Correlation of ML Performance Between Data Subpopulation**
+**Accuracy on the Curve: On the Nonlinear Correlation of ML Performance Between Data Subpopulation**
 
 [Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, [Yining Mao](https://yining-mao.github.io/)\*, [Yongchan Kwon](https://www.yongchanstat.com/)\*, **Xinyu Yang**, [James Zou](https://www.james-zou.com/)
 ( * equal contribution)
