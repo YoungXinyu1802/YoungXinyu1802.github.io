@@ -42,7 +42,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/moonshape.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/dunhuang.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Reconnecting the Broken Civilization: Patchwork Integration of Fragments from Ancient Manuscripts**
