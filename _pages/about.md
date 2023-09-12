@@ -18,19 +18,21 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 💬 About Me
 
-Hi, my name is Xinyu Yang (杨心妤), an incoming Information Science PhD student at Cornell University.
+Hi, my name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). My research interest lies in Computational Social Science, Science of Science and AI for social good. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
 
 Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to be a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://person.zju.edu.cn/en/wufei).
 
-My research interest lies in Computational Social Science, Science of Science and AI for social good. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques. 
+<!-- My research interest lies in Computational Social Science, Science of Science, Data Science and AI for social good. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques. -->
 <!-- Through this, he aims to gain a deeper understanding of the principles of science and innovation, with the ultimate goal of making meaningful contributions to society.
 I would like to explore how to utilize AI and other computational tools for social good.  -->
-Through this, I aim to apply and develop cutting-edge tools to understand the fundamental questions about individuals and collectives, unpack major problems and thereby address substantive questions both in the scientific and social realms.
+<!-- Through this, I aim to apply and develop cutting-edge tools to understand the fundamental questions about individuals and collectives, unpack major problems and thereby address substantive questions both in the scientific and social realms. -->
 
-# 📖 Educations
+<!-- # 📖 Educations
+- *2023.08 - Present*, Ph.D. in Information Science, Cornell University, Ithaca, NY, USA
+  - *Advisor:* [Prof. Yian Yin](https://www.yianyin.net/)
 - *2019.09 - 2023.06*, B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
   - *GPA:* Overall 90.19/100 (3.95/4.00); *Rank:* Top 5% among 226 students
-  - *Minor:* Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University)
+  - *Minor:* Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University) -->
 
 
 <!-- 
@@ -40,6 +42,22 @@ Through this, I aim to apply and develop cutting-edge tools to understand the fu
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2023</div><img src='images/Dunhuang.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reconnecting the Broken Civilization: Patchwork Integration of Fragments from Ancient Manuscripts**
+
+Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzhang.github.io/), Baoyi He, Huaiyong Dou, Junchi Yan, Yongquan Zhang, [Fei Wu](https://person.zju.edu.cn/en/wufei)
+( * equal contribution)
+
+**ACM International Conference on Multimedia (ACM MM) 2023**
+
+
+- We developed a multimodal pipeline for Dunhuang manuscript fragments reconstruction, leveraging text-based localization and a self-supervised contour matching framework, accompanied by a global reconstruction process. Our empirical evaluations reveal that this pipeline exhibits a remarkable success rate in fragment assembly.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2023</div><img src='images/moonshape.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +66,7 @@ Through this, I aim to apply and develop cutting-edge tools to understand the fu
 [Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, [Yining Mao](https://yining-mao.github.io/)\*, [Yongchan Kwon](https://www.yongchanstat.com/)\*, **Xinyu Yang**, [James Zou](https://www.james-zou.com/)
 ( * equal contribution)
 
-**ICML 2023**
+**International Conference on Machine Learning (ICML) 2023**
 
 <!-- **ICML 2022** Workshop on [Principles of Distribution Shift](https://sites.google.com/view/icml-2022-pods/)
 
