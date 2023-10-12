@@ -39,7 +39,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 
 
 # 📝 Publications and Preprints
-<div class='paper-box'><div class='paper-box-image'><img src='images/ai-reviewer.jpeg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/ai-reviewer.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Can large language models provide useful feedback on research papers? A large-scale empirical analysis**
@@ -125,8 +125,7 @@ ImageNet](https://shift-happens-benchmark.github.io/)
 - *2019 – 2020* Outstanding Student Awards in Yunfeng College (15 out of 800 students) 
 
 # 📖 Teaching
-- Python Programming (Spring 2023)
-  Zhejiang University, Teaching Assistant
+- *Spring 2023* Python Programming, Zhejiang University, Teaching Assistant
 
 <!-- # 💬 💻Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
