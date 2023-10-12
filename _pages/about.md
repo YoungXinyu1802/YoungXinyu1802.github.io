@@ -28,8 +28,8 @@ I would like to explore how to utilize AI and other computational tools for soci
 <!-- Through this, I aim to apply and develop cutting-edge tools to understand the fundamental questions about individuals and collectives, unpack major problems and thereby address substantive questions both in the scientific and social realms. -->
 
 # 📖 Educations
-- *2023.08 - Present*, Ph.D. in Information Science, Cornell University, Ithaca, NY, USA
-- *2019.09 - 2023.06*, B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
+- *2023.08 - Present* Ph.D. in Information Science, Cornell University, Ithaca, NY, USA
+- *2019.09 - 2023.06* B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
   <!-- - *Minor:* Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University) -->
 
 
