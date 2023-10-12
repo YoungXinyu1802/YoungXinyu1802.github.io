@@ -124,7 +124,7 @@ ImageNet](https://shift-happens-benchmark.github.io/)
 - *2019 – 2020* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%) 
 - *2019 – 2020* Outstanding Student Awards in Yunfeng College (15 out of 800 students) 
 
-# 📖 Teaching
+# 🗒 Teaching
 - *Spring 2023* Python Programming, Zhejiang University, Teaching Assistant
 
 <!-- # 💬 💻Invited Talks
