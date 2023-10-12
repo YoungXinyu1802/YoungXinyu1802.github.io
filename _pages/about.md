@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 💬 About Me
 
-Hi, my name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). My research interest lies in Computational Social Science, Science of Science and Machine Learning. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
+Hi! my name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). My research interest lies in Computational Social Science, Science of Science and Machine Learning. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
 
 Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to be a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://person.zju.edu.cn/en/wufei).
 
