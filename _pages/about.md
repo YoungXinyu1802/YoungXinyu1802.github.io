@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 💬 About Me
 
-Hi, my name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). My research interest lies in Computational Social Science, Science of Science and AI for social good. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
+Hi, my name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). My research interest lies in Computational Social Science, Science of Science and Machine Learning. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
 
 Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to be a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://person.zju.edu.cn/en/wufei).
 
@@ -27,12 +27,10 @@ Previously, I got my bachelor's degree in Computer Science and Technology from Z
 I would like to explore how to utilize AI and other computational tools for social good.  -->
 <!-- Through this, I aim to apply and develop cutting-edge tools to understand the fundamental questions about individuals and collectives, unpack major problems and thereby address substantive questions both in the scientific and social realms. -->
 
-<!-- # 📖 Educations
+# 📖 Educations
 - *2023.08 - Present*, Ph.D. in Information Science, Cornell University, Ithaca, NY, USA
-  - *Advisor:* [Prof. Yian Yin](https://www.yianyin.net/)
 - *2019.09 - 2023.06*, B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
-  - *GPA:* Overall 90.19/100 (3.95/4.00); *Rank:* Top 5% among 226 students
-  - *Minor:* Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University) -->
+  <!-- - *Minor:* Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University) -->
 
 
 <!-- 
@@ -40,7 +38,24 @@ I would like to explore how to utilize AI and other computational tools for soci
 - Working on a project jointly advised by [Prof. James Zou](https://www.james-zou.com/) (Stanford Univeristy) and [Dr. Nazneen Rajani](https://www.nazneenrajani.com/) (Hugging Face). Will submit soon. -->
 
 
-# 📝 Publications
+# 📝 Publications and Preprints
+<div class='paper-box'><div class='paper-box-image'><img src='images/ai-reviewer.jpeg' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+**Can large language models provide useful feedback on research papers? A large-scale empirical analysis**
+
+[Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, [Yuhui Zhang](https://cs.stanford.edu/~yuhuiz/)\*, [Hancheng Cao](http://hanchengcao.me/)\*, Binglu Wang, Daisy Ding, **Xinyu Yang**, [Kailas Vodrahalli](http://stanford.edu/~kailasv/about.html), [Siyu He](https://he-siyu.github.io/), [Daniel Smith](https://www.danielscottsmith.com/), [Yian Yin](https://www.yianyin.net/), [Daniel A. McFarland](https://ed.stanford.edu/faculty/mcfarland), [James Zou](https://www.james-zou.com/)
+( * equal contribution)
+
+arXiv preprint arXiv:2310.01783 (2023) 
+
+[[PDF]](https://arxiv.org/pdf/2310.01783.pdf), [[Twitter]](https://twitter.com/james_y_zou/status/1709608909395357946), [[Code]](https://github.com/Weixin-Liang/LLM-scientific-feedback)
+
+
+- We created an automated pipeline using GPT-4 to provide comments on the full PDFs of scientific papers. 
+- Our results suggest that LLM and human feedback can complement each other. While human expert review is and should continue to be the foundation of rigorous scientific process, LLM feedback could benefit researchers, especially when timely expert feedback is not available and in earlier stages of manuscript preparation before peer-review.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACMMM 2023</div><img src='images/Dunhuang.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -72,7 +87,7 @@ Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzh
 
 **ICML 2022** Workshop on [Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/) -->
 
-[[PDF]](https://arxiv.org/pdf/2305.02995.pdf), [[Website]](https://moonshape.readthedocs.io/), [[Video]](https://slideslive.com/38986287/on-the-nonlinear-correlation-of-ml-performance-berween-data-subpopulations), [[Code]](https://anonymous.4open.science/r/moonshape_subpopulation/)
+[[PDF]](https://arxiv.org/pdf/2305.02995.pdf), [[Website]](https://moonshape.readthedocs.io/), [[Video]](https://slideslive.com/38986287/on-the-nonlinear-correlation-of-ml-performance-berween-data-subpopulations), [[Code]](https://github.com/yining-mao/Moon-Shape-ICML-2023)
 
 - We show that there is a “moon shape” correlation (parabolic uptrend curve) between the test performance on the majority subpopulation and the minority subpopulation.
 This nonlinear correlations hold across model architectures, training settings, datasets, and the imbalance between subpopulations.
@@ -109,7 +124,9 @@ ImageNet](https://shift-happens-benchmark.github.io/)
 - *2019 – 2020* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%) 
 - *2019 – 2020* Outstanding Student Awards in Yunfeng College (15 out of 800 students) 
 
-
+# 📖 Teaching
+- Python Programming (Spring 2023)
+  Zhejiang University, Teaching Assistant
 
 <!-- # 💬 💻Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
