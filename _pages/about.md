@@ -52,7 +52,8 @@ I would like to explore how to utilize AI and other computational tools for soci
 - We present a comprehensive large-scale analysis of 7,433 ML dataset documentation on Hugging Face.
 - Based on our research findings, we emphasize the importance of comprehensive dataset documentation and offer suggestions to practitioners on how to write documentation that promotes reproducibility, transparency, and accessibility of their datasets, which can help to improve the overall quality and usability of the dataset community.
 
-
+</div>
+</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/ai-reviewer.jpeg' alt="sym" width="100%"></div></div>
