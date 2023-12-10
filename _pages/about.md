@@ -114,7 +114,7 @@ This nonlinear correlations hold across model architectures, training settings, 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2022 Workshop</div><img src='images/MetaShift.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> 
 
- **MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts and Training Conflicts**
+ **MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts**
 
 [Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, **Xinyu Yang\***, [James Zou](https://www.james-zou.com/)
 ( * equal contribution)
