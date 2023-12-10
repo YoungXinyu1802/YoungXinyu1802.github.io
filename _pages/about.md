@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 💬 About Me
 
-Hi! my name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). My research interest lies in Computational Social Science, Science of Science and Machine Learning. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
+Hi! my name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). My research interest lies in Science of Science, Data Science, AI for Common Good, and Computational Social Science. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
 
 Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to be a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://person.zju.edu.cn/en/wufei).
 
@@ -39,6 +39,22 @@ I would like to explore how to utilize AI and other computational tools for soci
 
 
 # 📝 Publications and Preprints
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023 Workshop</div><img src='images/dataset_card.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Navigating Dataset Documentation in ML: A Large-Scale Analysis of Dataset Cards on Hugging Face**
+
+**Xinyu Yang**, [Weixin Liang](https://ai.stanford.edu/~wxliang/), [James Zou](https://www.james-zou.com/)
+
+**NeurIPS 2023 Workshop on [Regulatable ML](https://regulatableml.github.io/#overview)**
+
+- We present a comprehensive large-scale analysis of 7,433 ML dataset documentation on Hugging Face.
+- Based on our research findings, we emphasize the importance of comprehensive dataset documentation and offer suggestions to practitioners on how to write documentation that promotes reproducibility, transparency, and accessibility of their datasets, which can help to improve the overall quality and usability of the dataset community.
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/ai-reviewer.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
