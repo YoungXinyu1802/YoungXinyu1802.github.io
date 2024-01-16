@@ -47,7 +47,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 
 **Xinyu Yang**, [Weixin Liang](https://ai.stanford.edu/~wxliang/), [James Zou](https://www.james-zou.com/)
 
-**International Conference on Learning Representations (ICLR) 2024**
+**ICLR 2024**
 
 <!-- **NeurIPS 2023 Workshop on [Regulatable ML](https://regulatableml.github.io/#overview)** -->
 
@@ -84,7 +84,7 @@ arXiv preprint arXiv:2310.01783 (2023)
 Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzhang.github.io/), Baoyi He, Huaiyong Dou, Junchi Yan, Yongquan Zhang, [Fei Wu](https://person.zju.edu.cn/en/wufei)
 ( * equal contribution)
 
-**ACM International Conference on Multimedia (ACM MM) 2023**
+**ACM MM 2023**
 
 
 - We developed a multimodal pipeline for Dunhuang manuscript fragments reconstruction, leveraging text-based localization and a self-supervised contour matching framework, accompanied by a global reconstruction process. Our empirical evaluations reveal that this pipeline exhibits a remarkable success rate in fragment assembly.
@@ -100,7 +100,7 @@ Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzh
 [Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, [Yining Mao](https://yining-mao.github.io/)\*, [Yongchan Kwon](https://www.yongchanstat.com/)\*, **Xinyu Yang**, [James Zou](https://www.james-zou.com/)
 ( * equal contribution)
 
-**International Conference on Machine Learning (ICML) 2023**
+**ICML 2023**
 
 <!-- **ICML 2022** Workshop on [Principles of Distribution Shift](https://sites.google.com/view/icml-2022-pods/)
 
