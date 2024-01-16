@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 💬 About Me
 
-Hi! my name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). My research interest lies in Science of Science, Data Science, AI for Common Good, and Computational Social Science. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
+Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). My research interest lies in Science of Science, Data Science, AI for Common Good, and Computational Social Science. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
 
 Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to be a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://person.zju.edu.cn/en/wufei).
 
@@ -47,7 +47,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 
 **Xinyu Yang**, [Weixin Liang](https://ai.stanford.edu/~wxliang/), [James Zou](https://www.james-zou.com/)
 
-**ICLR 2024**
+***ICLR 2024***
 
 <!-- **NeurIPS 2023 Workshop on [Regulatable ML](https://regulatableml.github.io/#overview)** -->
 
@@ -66,7 +66,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 [Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, [Yuhui Zhang](https://cs.stanford.edu/~yuhuiz/)\*, [Hancheng Cao](http://hanchengcao.me/)\*, Binglu Wang, Daisy Ding, **Xinyu Yang**, [Kailas Vodrahalli](http://stanford.edu/~kailasv/about.html), [Siyu He](https://he-siyu.github.io/), [Daniel Smith](https://www.danielscottsmith.com/), [Yian Yin](https://www.yianyin.net/), [Daniel A. McFarland](https://ed.stanford.edu/faculty/mcfarland), [James Zou](https://www.james-zou.com/)
 ( * equal contribution)
 
-arXiv preprint arXiv:2310.01783 (2023) 
+***arXiv preprint arXiv:2310.01783 (2023)***
 
 [[PDF]](https://arxiv.org/pdf/2310.01783.pdf), [[Twitter]](https://twitter.com/james_y_zou/status/1709608909395357946), [[Code]](https://github.com/Weixin-Liang/LLM-scientific-feedback)
 
@@ -84,7 +84,7 @@ arXiv preprint arXiv:2310.01783 (2023)
 Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzhang.github.io/), Baoyi He, Huaiyong Dou, Junchi Yan, Yongquan Zhang, [Fei Wu](https://person.zju.edu.cn/en/wufei)
 ( * equal contribution)
 
-**ACM MM 2023**
+***ACM MM 2023***
 
 
 - We developed a multimodal pipeline for Dunhuang manuscript fragments reconstruction, leveraging text-based localization and a self-supervised contour matching framework, accompanied by a global reconstruction process. Our empirical evaluations reveal that this pipeline exhibits a remarkable success rate in fragment assembly.
@@ -100,7 +100,7 @@ Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzh
 [Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, [Yining Mao](https://yining-mao.github.io/)\*, [Yongchan Kwon](https://www.yongchanstat.com/)\*, **Xinyu Yang**, [James Zou](https://www.james-zou.com/)
 ( * equal contribution)
 
-**ICML 2023**
+***ICML 2023***
 
 <!-- **ICML 2022** Workshop on [Principles of Distribution Shift](https://sites.google.com/view/icml-2022-pods/)
 
@@ -121,7 +121,7 @@ This nonlinear correlations hold across model architectures, training settings, 
 [Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, **Xinyu Yang\***, [James Zou](https://www.james-zou.com/)
 ( * equal contribution)
 
-**Contributed Talk** at **ICML 2022** Workshop on [Shift happens: Crowdsourcing metrics and test datasets beyond
+***Contributed Talk*** at ***ICML 2022*** Workshop on [Shift happens: Crowdsourcing metrics and test datasets beyond
 ImageNet](https://shift-happens-benchmark.github.io/)
 
 [[PDF]](https://openreview.net/forum?id=iuSDDiqacPj), [[Website]](https://metadataset.readthedocs.io/), [[Video]](https://slideslive.com/38987455/metashift-a-dataset-of-datasets-for-evaluating-contextual-distribution-shifts), [[Code]](https://github.com/YoungXinyu1802/icml-2022/tree/main/shifthappens/tasks/imagenet_metashift)
