@@ -49,7 +49,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 
 **International Conference on Learning Representations (ICLR) 2024**
 
-**NeurIPS 2023 Workshop on [Regulatable ML](https://regulatableml.github.io/#overview)**
+<!-- **NeurIPS 2023 Workshop on [Regulatable ML](https://regulatableml.github.io/#overview)** -->
 
 - We present a comprehensive large-scale analysis of 7,433 ML dataset documentation on Hugging Face.
 - Based on our research findings, we emphasize the importance of comprehensive dataset documentation and offer suggestions to practitioners on how to write documentation that promotes reproducibility, transparency, and accessibility of their datasets, which can help to improve the overall quality and usability of the dataset community.
