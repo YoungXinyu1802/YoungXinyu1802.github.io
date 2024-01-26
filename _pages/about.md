@@ -45,11 +45,14 @@ I would like to explore how to utilize AI and other computational tools for soci
 
 **Navigating Dataset Documentation in ML: A Large-Scale Analysis of Dataset Cards on Hugging Face**
 
-**Xinyu Yang**, [Weixin Liang](https://ai.stanford.edu/~wxliang/), [James Zou](https://www.james-zou.com/)
+**Xinyu Yang\***, [Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, [James Zou](https://www.james-zou.com/)
 
 ***ICLR 2024***
+***NeurIPS 2023 Workshop on [Regulatable ML](https://regulatableml.github.io/#overview)***
 
-<!-- **NeurIPS 2023 Workshop on [Regulatable ML](https://regulatableml.github.io/#overview)** -->
+[[PDF]](https://arxiv.org/abs/2401.13822.pdf), [[Code]](https://github.com/YoungXinyu1802/HuggingFace-Dataset-Card-Analysis)
+
+
 
 - We present a comprehensive large-scale analysis of 7,433 ML dataset documentation on Hugging Face.
 - Based on our research findings, we emphasize the importance of comprehensive dataset documentation and offer suggestions to practitioners on how to write documentation that promotes reproducibility, transparency, and accessibility of their datasets, which can help to improve the overall quality and usability of the dataset community.
