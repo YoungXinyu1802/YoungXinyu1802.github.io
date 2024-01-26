@@ -90,6 +90,7 @@ Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzh
 
 ***ACM MM 2023***
 
+[[PDF]](https://dl.acm.org/doi/10.1145/3581783.3613804)
 
 - We developed a multimodal pipeline for Dunhuang manuscript fragments reconstruction, leveraging text-based localization and a self-supervised contour matching framework, accompanied by a global reconstruction process. Our empirical evaluations reveal that this pipeline exhibits a remarkable success rate in fragment assembly.
 
