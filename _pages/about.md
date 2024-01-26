@@ -45,7 +45,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 
 **Navigating Dataset Documentation in ML: A Large-Scale Analysis of Dataset Cards on Hugging Face**
 
-**Xinyu Yang\***, [Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, [James Zou](https://www.james-zou.com/)
+**Xinyu Yang\***, [Weixin Liang\*](https://ai.stanford.edu/~wxliang/), [James Zou](https://www.james-zou.com/)
 
 ***ICLR 2024***
 
@@ -67,7 +67,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 
 **Can large language models provide useful feedback on research papers? A large-scale empirical analysis**
 
-[Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, [Yuhui Zhang](https://cs.stanford.edu/~yuhuiz/)\*, [Hancheng Cao](http://hanchengcao.me/)\*, Binglu Wang, Daisy Ding, **Xinyu Yang**, [Kailas Vodrahalli](http://stanford.edu/~kailasv/about.html), [Siyu He](https://he-siyu.github.io/), [Daniel Smith](https://www.danielscottsmith.com/), [Yian Yin](https://www.yianyin.net/), [Daniel A. McFarland](https://ed.stanford.edu/faculty/mcfarland), [James Zou](https://www.james-zou.com/)
+[Weixin Liang\*](https://ai.stanford.edu/~wxliang/), [Yuhui Zhang\*](https://cs.stanford.edu/~yuhuiz/), [Hancheng Cao\*](http://hanchengcao.me/), Binglu Wang, Daisy Ding, **Xinyu Yang**, [Kailas Vodrahalli](http://stanford.edu/~kailasv/about.html), [Siyu He](https://he-siyu.github.io/), [Daniel Smith](https://www.danielscottsmith.com/), [Yian Yin](https://www.yianyin.net/), [Daniel A. McFarland](https://ed.stanford.edu/faculty/mcfarland), [James Zou](https://www.james-zou.com/)
 <!-- ( * equal contribution) -->
 
 ***arXiv preprint arXiv:2310.01783 (2023)***
@@ -102,7 +102,7 @@ Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzh
 
 **Accuracy on the Curve: On the Nonlinear Correlation of ML Performance Between Data Subpopulation**
 
-[Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, [Yining Mao](https://yining-mao.github.io/)\*, [Yongchan Kwon](https://www.yongchanstat.com/)\*, **Xinyu Yang**, [James Zou](https://www.james-zou.com/)
+[Weixin Liang\*](https://ai.stanford.edu/~wxliang/), [Yining Mao\*](https://yining-mao.github.io/), [Yongchan Kwon\*](https://www.yongchanstat.com/), **Xinyu Yang**, [James Zou](https://www.james-zou.com/)
 <!-- ( * equal contribution) -->
 
 ***ICML 2023***
@@ -123,7 +123,7 @@ This nonlinear correlations hold across model architectures, training settings, 
 
  **MetaShift: A Dataset of Datasets for Evaluating Contextual Distribution Shifts**
 
-[Weixin Liang](https://ai.stanford.edu/~wxliang/)\*, **Xinyu Yang\***, [James Zou](https://www.james-zou.com/)
+[Weixin Liang\*](https://ai.stanford.edu/~wxliang/), **Xinyu Yang\***, [James Zou](https://www.james-zou.com/)
 <!-- ( * equal contribution) -->
 
 ***Contributed Talk*** at ***ICML 2022*** Workshop on [Shift happens: Crowdsourcing metrics and test datasets beyond
