@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 💬 About Me
 
-Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). My research interest lies in Science of Science, Data Science, AI for Common Good, and Computational Social Science. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
+Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). I am broadly interested in Data Science, Network Science, Machine Learning and Science of Science. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
 
-Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to be a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://person.zju.edu.cn/en/wufei).
+Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to be a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en).
 
 <!-- My research interest lies in Computational Social Science, Science of Science, Data Science and AI for social good. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques. -->
 <!-- Through this, he aims to gain a deeper understanding of the principles of science and innovation, with the ultimate goal of making meaningful contributions to society.
@@ -54,7 +54,6 @@ I would like to explore how to utilize AI and other computational tools for soci
 [[PDF]](https://arxiv.org/abs/2401.13822.pdf), [[Code]](https://github.com/YoungXinyu1802/HuggingFace-Dataset-Card-Analysis)
 
 
-
 - We present a comprehensive large-scale analysis of 7,433 ML dataset documentation on Hugging Face.
 - Based on our research findings, we emphasize the importance of comprehensive dataset documentation and offer suggestions to practitioners on how to write documentation that promotes reproducibility, transparency, and accessibility of their datasets, which can help to improve the overall quality and usability of the dataset community.
 
@@ -85,7 +84,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 
 **Reconnecting the Broken Civilization: Patchwork Integration of Fragments from Ancient Manuscripts**
 
-Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzhang.github.io/), Baoyi He, Huaiyong Dou, Junchi Yan, Yongquan Zhang, [Fei Wu](https://person.zju.edu.cn/en/wufei)
+Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzhang.github.io/), Baoyi He, Huaiyong Dou, Junchi Yan, Yongquan Zhang, [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en)
 <!-- ( * equal contribution) -->
 
 ***ACM MM 2023***
