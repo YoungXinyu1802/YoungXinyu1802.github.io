@@ -52,6 +52,11 @@
       {% if author.dblp %}
         <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw" aria-hidden="true"></i> DBLP</a></li>
       {% endif %}
+
+      {% if author.dblp %}
+      <li><a href="{{ author.semanticscholar }}"><i class="ai ai-semantic-scholar ai-fw" aria-hidden="true"></i> Semantic Scholar</a></li>
+      {% endif %}
+
       {% if author.xing %}
         <li><a href="https://www.xing.com/profile/{{ author.xing }}"><i class="fab fa-fw fa-xing-square" aria-hidden="true"></i> XING</a></li>
       {% endif %}
