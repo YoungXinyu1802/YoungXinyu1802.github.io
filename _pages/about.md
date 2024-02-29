@@ -43,7 +43,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/dataset_card.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Navigating Dataset Documentation in ML: A Large-Scale Analysis of Dataset Cards on Hugging Face**
+**Navigating Dataset Documentation in AI: A Large-Scale Analysis of Dataset Cards on Hugging Face**
 
 **Xinyu Yang\***, [Weixin Liang\*](https://ai.stanford.edu/~wxliang/), [James Zou](https://www.james-zou.com/)
 
