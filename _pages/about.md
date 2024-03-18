@@ -82,7 +82,7 @@ Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD stud
 
 **Reconnecting the Broken Civilization: Patchwork Integration of Fragments from Ancient Manuscripts**
 
-Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzhang.github.io/), Baoyi He, Huaiyong Dou, Junchi Yan, Yongquan Zhang, [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en)
+Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzhang.github.io/), Baoyi He, Huaiyong Dou, [Junchi Yan](https://scholar.google.com/citations?user=ga230VoAAAAJ&hl=en), Yongquan Zhang, [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en)
 <!-- ( * equal contribution) -->
 
 ***ACM MM 2023*** <span style="color:red">***(Oral)***</span>
