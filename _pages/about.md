@@ -18,14 +18,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 # 💬 About Me
 
-Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). I am broadly interested in Data Science, Network Science, Machine Learning and Science of Science. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques.
+<!-- Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). I am broadly interested in Data Science, Network Science, Machine Learning and Science of Science. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques. -->
 
-Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to be a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en).
+Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). I am broadly interested in Applied Machine Learning, Data Science and AI for Common Good. Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to be a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University DCD Lab advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en).
 
-<!-- My research interest lies in Computational Social Science, Science of Science, Data Science and AI for social good. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques. -->
-<!-- Through this, he aims to gain a deeper understanding of the principles of science and innovation, with the ultimate goal of making meaningful contributions to society.
-I would like to explore how to utilize AI and other computational tools for social good.  -->
-<!-- Through this, I aim to apply and develop cutting-edge tools to understand the fundamental questions about individuals and collectives, unpack major problems and thereby address substantive questions both in the scientific and social realms. -->
 
 # 📖 Educations
 - *2023.08 - Present* Ph.D. in Information Science, Cornell University, Ithaca, NY, USA
@@ -39,6 +35,8 @@ I would like to explore how to utilize AI and other computational tools for soci
 
 
 # 📝 Publications and Preprints
+
+\* denotes equal contribution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/dataset_card.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -87,7 +85,7 @@ I would like to explore how to utilize AI and other computational tools for soci
 Yuqing Zhang\*, Zhou Fang\*, **Xinyu Yang\***, [Shengyu Zhang](https://shengyuzhang.github.io/), Baoyi He, Huaiyong Dou, Junchi Yan, Yongquan Zhang, [Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en)
 <!-- ( * equal contribution) -->
 
-***ACM MM 2023***
+***ACM MM 2023*** <span style="color:red">***(Oral)***</span>
 
 [[PDF]](https://dl.acm.org/doi/10.1145/3581783.3613804)
 
@@ -125,7 +123,7 @@ This nonlinear correlations hold across model architectures, training settings, 
 [Weixin Liang\*](https://ai.stanford.edu/~wxliang/), **Xinyu Yang\***, [James Zou](https://www.james-zou.com/)
 <!-- ( * equal contribution) -->
 
-***Contributed Talk*** at ***ICML 2022*** Workshop on [Shift happens: Crowdsourcing metrics and test datasets beyond
+<span style="color:red">***Contributed Talk***</span> at ***ICML 2022*** Workshop on [Shift happens: Crowdsourcing metrics and test datasets beyond
 ImageNet](https://shift-happens-benchmark.github.io/)
 
 [[PDF]](https://openreview.net/forum?id=iuSDDiqacPj), [[Website]](https://metadataset.readthedocs.io/), [[Video]](https://slideslive.com/38987455/metashift-a-dataset-of-datasets-for-evaluating-contextual-distribution-shifts), [[Code]](https://github.com/YoungXinyu1802/icml-2022/tree/main/shifthappens/tasks/imagenet_metashift)
