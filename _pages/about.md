@@ -71,7 +71,8 @@ Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD stud
 [[PDF]](https://arxiv.org/abs/2402.05160), [[Code]](https://github.com/Weixin-Liang/AI-model-card-analysis-HuggingFace)
 
 
-- We conduct a comprehensive analysis of 32,111 AI model documentations on Hugging Face, which provides a systematic assessment of community norms and practices around model documentation through large-scale data science and linguistic analysis. Our findings reveal that while most popular models have model cards, they often vary in detail. Sections on environmental impact, limitations, and evaluation are frequently incomplete, whereas training details are more consistently provided. We also analyze the content of each section to characterize practitioners' priorities.
+- We conduct a comprehensive analysis of 32,111 AI model documentations on Hugging Face, which provides a systematic assessment of community norms and practices around model documentation through large-scale data science and linguistic analysis. 
+- Our findings reveal that while most popular models have model cards, they often vary in detail. Sections on environmental impact, limitations, and evaluation are frequently incomplete, whereas training details are more consistently provided. We also analyze the content of each section to characterize practitioners' priorities.
 
 </div>
 </div>
