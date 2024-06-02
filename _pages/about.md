@@ -58,28 +58,27 @@ Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD stud
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/modelcard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Machine Intelligence 2024</div><img src='images/modelcard.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **What's documented in AI? Systematic Analysis of 32K AI Model Cards**
 
 [Weixin Liang\*](https://ai.stanford.edu/~wxliang/), [Nazneen Rajani\*](https://www.nazneenrajani.com/), **Xinyu Yang\***, Ezinwanne Ozoani, [Eric Wu](https://ericwu09.github.io/), [Yiqun Chen](https://yiqunchen.github.io/), [Daniel Scott Smith](https://www.danielscottsmith.com/), [James Zou](https://www.james-zou.com/)
 
-***Nature Machine Intelligence (2024)***
+***Nature Machine Intelligence 2024***
 
 
 [[PDF]](https://arxiv.org/abs/2402.05160), [[Code]](https://github.com/Weixin-Liang/AI-model-card-analysis-HuggingFace)
 
 
-- We conduct a comprehensive analysis of 32,111 AI model documentations on Hugging Face, a leading platform for distributing and deploying AI models.
-- Our investigation sheds light on the prevailing model card documentation practices. Most of the AI models with substantial downloads provide model cards, though the cards have uneven informativeness. We find that sections addressing environmental impact, limitations, and evaluation exhibit the lowest filled-out rates, while the training section is the most consistently filled-out. 
-- Our study opens up a new perspective for analyzing community norms and practices for model documentation through large-scale data science and linguistics analysis.
+- We conduct a comprehensive analysis of 32,111 AI model documentations on Hugging Face. Our findings reveal that while most popular models have model cards, they often vary in detail. Sections on environmental impact, limitations, and evaluation are frequently incomplete, whereas training details are more consistently provided. We also analyze the content of each section to characterize practitioners' priorities.
+- We provides a systematic assessment of community norms and practices around model documentation through large-scale data science and linguistic analysis.
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/ai-reviewer.jpeg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NEJM AI 2024</div><img src='images/ai-reviewer.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Can large language models provide useful feedback on research papers? A large-scale empirical analysis**
