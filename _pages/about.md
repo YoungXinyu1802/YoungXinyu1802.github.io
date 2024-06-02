@@ -63,7 +63,7 @@ Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD stud
 
 **What's documented in AI? Systematic Analysis of 32K AI Model Cards**
 
-[Weixin Liang\*](https://ai.stanford.edu/~wxliang/), [Nazneen Rajani\*](https://www.nazneenrajani.com/), **Xinyu Yang\***, Ezinwanne Ozoani, [Eric Wu](https://ericwu09.github.io/), [Yiqun Chen](https://yiqunchen.github.io/), [Daniel Scott Smith](https://www.danielscottsmith.com/), [James Zou](https://www.james-zou.com/)
+[Weixin Liang\*](https://ai.stanford.edu/~wxliang/), [Nazneen Rajani\*](https://www.nazneenrajani.com/), **Xinyu Yang\***, [Ezinwanne Ozoani](https://www.linkedin.cn/incareer/in/ezi-ozoani), [Eric Wu](https://ericwu09.github.io/), [Yiqun Chen](https://yiqunchen.github.io/), [Daniel Scott Smith](https://www.danielscottsmith.com/), [James Zou](https://www.james-zou.com/)
 
 ***Nature Machine Intelligence 2024***
 
@@ -71,8 +71,7 @@ Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD stud
 [[PDF]](https://arxiv.org/abs/2402.05160), [[Code]](https://github.com/Weixin-Liang/AI-model-card-analysis-HuggingFace)
 
 
-- We conduct a comprehensive analysis of 32,111 AI model documentations on Hugging Face. Our findings reveal that while most popular models have model cards, they often vary in detail. Sections on environmental impact, limitations, and evaluation are frequently incomplete, whereas training details are more consistently provided. We also analyze the content of each section to characterize practitioners' priorities.
-- We provides a systematic assessment of community norms and practices around model documentation through large-scale data science and linguistic analysis.
+- We conduct a comprehensive analysis of 32,111 AI model documentations on Hugging Face, which provides a systematic assessment of community norms and practices around model documentation through large-scale data science and linguistic analysis. Our findings reveal that while most popular models have model cards, they often vary in detail. Sections on environmental impact, limitations, and evaluation are frequently incomplete, whereas training details are more consistently provided. We also analyze the content of each section to characterize practitioners' priorities.
 
 </div>
 </div>
