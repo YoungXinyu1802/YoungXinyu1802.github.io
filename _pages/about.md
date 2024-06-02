@@ -58,6 +58,26 @@ Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD stud
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/modelcard.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**What's documented in AI? Systematic Analysis of 32K AI Model Cards**
+
+[Weixin Liang\*](https://ai.stanford.edu/~wxliang/), [Nazneen Rajani\*](https://www.nazneenrajani.com/), **Xinyu Yang\***, Ezinwanne Ozoani, [Eric Wu](https://ericwu09.github.io/), [Yiqun Chen](https://yiqunchen.github.io/), [Daniel Scott Smith](https://www.danielscottsmith.com/), [James Zou](https://www.james-zou.com/)
+
+***Nature Machine Intelligence (2024)***
+
+
+[[PDF]](https://arxiv.org/abs/2402.05160), [[Code]](https://github.com/Weixin-Liang/AI-model-card-analysis-HuggingFace)
+
+
+- We conduct a comprehensive analysis of 32,111 AI model documentations on Hugging Face, a leading platform for distributing and deploying AI models.
+- Our investigation sheds light on the prevailing model card documentation practices. Most of the AI models with substantial downloads provide model cards, though the cards have uneven informativeness. We find that sections addressing environmental impact, limitations, and evaluation exhibit the lowest filled-out rates, while the training section is the most consistently filled-out. 
+- Our study opens up a new perspective for analyzing community norms and practices for model documentation through large-scale data science and linguistics analysis.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv preprint</div><img src='images/ai-reviewer.jpeg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -67,7 +87,7 @@ Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD stud
 [Weixin Liang\*](https://ai.stanford.edu/~wxliang/), [Yuhui Zhang\*](https://cs.stanford.edu/~yuhuiz/), [Hancheng Cao\*](http://hanchengcao.me/), Binglu Wang, Daisy Ding, **Xinyu Yang**, [Kailas Vodrahalli](http://stanford.edu/~kailasv/about.html), [Siyu He](https://he-siyu.github.io/), [Daniel Smith](https://www.danielscottsmith.com/), [Yian Yin](https://www.yianyin.net/), [Daniel A. McFarland](https://ed.stanford.edu/faculty/mcfarland), [James Zou](https://www.james-zou.com/)
 <!-- ( * equal contribution) -->
 
-***arXiv preprint arXiv:2310.01783 (2023)***
+***NEJM AI 2024***
 
 [[PDF]](https://arxiv.org/pdf/2310.01783.pdf), [[Twitter]](https://twitter.com/james_y_zou/status/1709608909395357946), [[Code]](https://github.com/Weixin-Liang/LLM-scientific-feedback)
 
