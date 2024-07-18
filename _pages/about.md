@@ -68,7 +68,7 @@ Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD stud
 ***Nature Machine Intelligence 2024***
 
 
-[[PDF]](https://arxiv.org/abs/2402.05160), [[Code]](https://github.com/Weixin-Liang/AI-model-card-analysis-HuggingFace)
+[[PDF]](https://www.nature.com/articles/s42256-024-00857-z.epdf?sharing_token=t60q8xz8Qfw70UsZXMUmhtRgN0jAjWel9jnR3ZoTv0O6DtFA7RtfK0nfhKseaTom13GSX6MC9Qv0cuMQe_cCWMU-IzVs2qfzeSGJM3lzA8Dpg0JfmTzdNelnC7Mjd6N0EliE4e93iMohI9QKOpMc0b8qja6829UtwfB-ctlULG8%3D), [[Code]](https://github.com/Weixin-Liang/AI-model-card-analysis-HuggingFace)
 
 
 - We conduct a comprehensive analysis of 32,111 AI model documentations on Hugging Face, which provides a systematic assessment of community norms and practices around model documentation through large-scale data science and linguistic analysis. 
@@ -88,7 +88,7 @@ Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD stud
 
 ***NEJM AI 2024***
 
-[[PDF]](https://arxiv.org/pdf/2310.01783.pdf), [[Twitter]](https://twitter.com/james_y_zou/status/1709608909395357946), [[Code]](https://github.com/Weixin-Liang/LLM-scientific-feedback)
+[[PDF]](https://ai.nejm.org/doi/full/10.1056/AIoa2400196), [[Twitter]](https://twitter.com/james_y_zou/status/1709608909395357946), [[Code]](https://github.com/Weixin-Liang/LLM-scientific-feedback)
 
 
 - We created an automated pipeline using GPT-4 to provide comments on the full PDFs of scientific papers. 
