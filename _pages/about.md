@@ -20,7 +20,9 @@ redirect_from:
 
 <!-- Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). I am broadly interested in Data Science, Network Science, Machine Learning and Science of Science. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques. -->
 
-Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). I am broadly interested in Applied Machine Learning, Data Science and AI for Common Good. Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to be a research intern at [Stanford AI Lab](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University Digital Media Computing and Design (DCD) Lab advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en).
+Hi! My name is Xinyu Yang (杨心妤), a second-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). 
+<!-- I am broadly interested in Applied Machine Learning, Data Science and AI for Common Good.  -->
+Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to be a research intern at [Stanford University](https://ai.stanford.edu/) advised by [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University Digital Media Computing and Design (DCD) Lab advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en).
 
 
 # 📖 Educations
@@ -158,14 +160,15 @@ ImageNet](https://shift-happens-benchmark.github.io/)
 # 🎖 Honors and Awards
 - *2022 - 2023* Outstanding Graduates of Zhejiang Province
 - *2022 - 2023* Outstanding Graduates of Zhejiang University
-- *2021 – 2022* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%)
-- *2020 – 2021* Second-Class Scholarship for Outstanding Students of Zhejiang University (Top 8%)
-- *2019 – 2020* National Scholarship (Top 1%)
-- *2019 – 2020* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%) 
-- *2019 – 2020* Outstanding Student Awards in Yunfeng College (15 out of 800 students) 
+- *2021 - 2022* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%)
+- *2020 - 2021* Second-Class Scholarship for Outstanding Students of Zhejiang University (Top 8%)
+- *2019 - 2020* National Scholarship (Top 1%)
+- *2019 - 2020* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%) 
+- *2019 - 2020* Outstanding Student Awards in Yunfeng College (15 out of 800 students) 
 
 # 🗒 Teaching
 - *Spring 2023* Python Programming, Zhejiang University, Teaching Assistant
+- *Fall 2024* Networks, Cornell University, Teaching Assistant
 
 <!-- # 💬 💻Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
