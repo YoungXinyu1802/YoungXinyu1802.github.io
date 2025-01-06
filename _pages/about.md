@@ -20,7 +20,8 @@ redirect_from:
 
 <!-- Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). I am broadly interested in Data Science, Network Science, Machine Learning and Science of Science. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques. -->
 
-Hi! My name is Xinyu Yang (杨心妤), a second-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). 
+Hi! My name is Xinyu Yang (杨心妤), a second-year Information Science PhD student at Cornell University.
+<!-- , advised by [Prof. Yian Yin](https://www.yianyin.net/).  -->
 <!-- I am broadly interested in Applied Machine Learning, Data Science and AI for Common Good.  -->
 Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to work with [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University Digital Media Computing and Design (DCD) Lab advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en).
 
