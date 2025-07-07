@@ -26,9 +26,9 @@ Hi! My name is Xinyu Yang (杨心妤), a CS PhD student at Cornell University.
 Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to work with [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University Digital Media Computing and Design (DCD) Lab advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en).
 
 
-<!-- # 📖 Educations
+# 📖 Educations
 - *2023.08 - Present* Ph.D. in [CIS](https://cis.cornell.edu/), Cornell University, Ithaca, NY, USA
-- *2019.09 - 2023.06* B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China -->
+- *2019.09 - 2023.06* B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
   <!-- - *Minor:* Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University) -->
 
 
