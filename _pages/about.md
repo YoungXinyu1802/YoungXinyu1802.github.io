@@ -20,15 +20,15 @@ redirect_from:
 
 <!-- Hi! My name is Xinyu Yang (杨心妤), a first-year Information Science PhD student at Cornell University, advised by [Prof. Yian Yin](https://www.yianyin.net/). I am broadly interested in Data Science, Network Science, Machine Learning and Science of Science. At present, my focus lies in conducting large-scale scientific data analyses using cutting-edge computational and machine learning techniques. -->
 
-Hi! My name is Xinyu Yang (杨心妤), a second-year Information Science PhD student at Cornell University.
+Hi! My name is Xinyu Yang (杨心妤), a CS PhD student at Cornell University.
 <!-- , advised by [Prof. Yian Yin](https://www.yianyin.net/).  -->
 <!-- I am broadly interested in Applied Machine Learning, Data Science and AI for Common Good.  -->
 Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University, China. During my undergraduate, I was fortunate to work with [Prof. James Zou](https://www.james-zou.com/). I also experienced a wonderful research internship at Zhejiang University Digital Media Computing and Design (DCD) Lab advised by [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en).
 
 
-# 📖 Educations
-- *2023.08 - Present* Ph.D. in Information Science, Cornell University, Ithaca, NY, USA
-- *2019.09 - 2023.06* B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China
+<!-- # 📖 Educations
+- *2023.08 - Present* Ph.D. in [CIS](https://cis.cornell.edu/), Cornell University, Ithaca, NY, USA
+- *2019.09 - 2023.06* B.E. in Computer Science and Technology, Zhejiang University, Hangzhou, China -->
   <!-- - *Minor:* Advanced Honor Class of Engineering Education Program (Honors program of Zhejiang University) -->
 
 
@@ -167,9 +167,13 @@ ImageNet](https://shift-happens-benchmark.github.io/)
 - *2019 - 2020* First-Class Scholarship for Outstanding Students of Zhejiang University (Top 3%) 
 - *2019 - 2020* Outstanding Student Awards in Yunfeng College (15 out of 800 students) 
 
-# 🗒 Teaching
+<!-- # 🗒 Teaching
 - *Spring 2023* Python Programming, Zhejiang University, Teaching Assistant
-- *Fall 2024* Networks, Cornell University, Teaching Assistant
+- *Fall 2024* Networks, Cornell University, Teaching Assistant -->
+
+# 🗒 Services
+- **Teaching Assistant**: Python Programming (Zhejiang University, Spring 2023), Networks (Cornell University, Fall 2024)
+- **Reviewer**: NeurIPS '24-'25, NeurIPS D&B '24, ICLR '25, ICML '25
 
 <!-- # 💬 💻Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
