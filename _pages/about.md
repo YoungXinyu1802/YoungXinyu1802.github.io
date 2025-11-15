@@ -25,7 +25,7 @@ Hi! My name is Xinyu Yang (杨心妤), a CS PhD student at Cornell University ad
 <!-- I am broadly interested in Applied Machine Learning, Data Science and AI for Common Good.  -->
 Previously, I got my bachelor's degree in Computer Science and Technology from Zhejiang University. During my undergraduate, I was fortunate to work with [Prof. James Zou](https://www.james-zou.com/) at Stanford and [Prof. Fei Wu](https://scholar.google.com/citations?user=XJLn4MYAAAAJ&hl=en) at ZJU.
 
-My research interest lie in Maching Learning and Computer Vision.
+My research interest lies in Maching Learning and Computer Vision.
 
 <!-- . I also experienced a wonderful research internship at Zhejiang University Digital Media Computing and Design (DCD) Lab advised by -->
 
