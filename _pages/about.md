@@ -78,7 +78,7 @@ We track objects through transformations while detecting and describing these st
 [[PDF]](https://arxiv.org/abs/2401.13822.pdf), [[Code]](https://github.com/YoungXinyu1802/HuggingFace-Dataset-Card-Analysis)
 
 
-We present a comprehensive large-scale analysis of 7,433 ML dataset documentation on Hugging Face.
+We present a comprehensive large-scale analysis of 7,433 ML dataset documentation on Hugging Face, which provides a empirical analysis of community norms and practices around dataset documentation.
 <!-- - Based on our research findings, we emphasize the importance of comprehensive dataset documentation and offer suggestions to practitioners on how to write documentation that promotes reproducibility, transparency, and accessibility of their datasets, which can help to improve the overall quality and usability of the dataset community. -->
 
 </div>
@@ -117,7 +117,7 @@ We conduct a comprehensive analysis of 32,111 AI model documentations on Hugging
 [[PDF]](https://ai.nejm.org/doi/full/10.1056/AIoa2400196), [[Twitter]](https://twitter.com/james_y_zou/status/1709608909395357946), [[Code]](https://github.com/Weixin-Liang/LLM-scientific-feedback)
 
 
-We created an automated pipeline using GPT-4 to provide comments on the full PDFs of scientific papers. 
+We created an automated pipeline using GPT-4 to provide comments on the full PDFs of scientific papers and show that LLM and human feedback can complement each other.
 <!-- - Our results suggest that LLM and human feedback can complement each other. While human expert review is and should continue to be the foundation of rigorous scientific process, LLM feedback could benefit researchers, especially when timely expert feedback is not available and in earlier stages of manuscript preparation before peer-review. -->
 </div>
 </div>
