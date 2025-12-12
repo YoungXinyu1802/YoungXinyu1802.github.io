@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="Deformable Neural Radiance Fields creates free-viewpoint portraits (nerfies) from casually captured videos.">
+  <meta name="keywords" content="Nerfies, D-NeRF, NeRF">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Live Interactive Training for Video Segmentation</title>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-PYVRSFMDRL"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <!-- <link rel="icon" href="./static/images/favicon.svg"> -->
+   <link rel="icon" href="data:,">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">Live Interactive Training for Video Segmentation</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://youngxinyu1802.github.io/">Xinyu Yang</a>,</span>
+            <span class="author-block">
+              <a href="https://haozheng-yu.github.io/">Haozheng Yu</a>,</span>
+            <span class="author-block">
+              <a href="https://yihongsun.github.io/">Yihong Sun</a>,
+            </span>
+            <span class="author-block">
+              <a href="https://www.cs.cornell.edu/~bharathh/">Bharath Hariharan</a>,
+            </span>
+            <span class="author-block">
+              <a href="https://jenjsun.com/">Jennifer J. Sun</a>
+            </span>
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">Cornell University</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <!-- PDF Link. -->
+              <span class="link-block">
+                <a href="https://arxiv.org/pdf/2011.12948"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2011.12948"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="ai ai-arxiv"></i>
+                  </span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <!-- Code Link. -->
+              <span class="link-block">
+                <a href="https://github.com/google/nerfies"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code(coming soon)</span>
+                  </a>
+              </span>
+            </div>
+
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- <section class="hero teaser">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-centered">
+          <video id="teaser" autoplay muted loop playsinline height="100%">
+            <source src="./static/videos/demo1_cut.mp4"
+                    type="video/mp4">
+          </video>
+        </div>
+        <h2 class="subtitle has-text-centered">
+          LIT-LoRA learns from user corrections, enabling the model to correct recurring error patterns and significantly reduce user effort.
+        </h2>
+      </div>
+    </div>
+  </div>
+</section> -->
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <div class="content has-text-centered">
+          <img id="teaser" src="./static/images/fig1_website.png" alt="Teaser image" height="100%">
+        </div>
+        <div class="content has-text-justified">
+          <p class="is-size-6">
+            The current system (top) does not learn from user feedback, 
+        leading to the same errors to reappear and requiring repeated corrections (e.g., 14 prompts to add the missing cards), which leads to substantial annotation time (e.g., 5.62 mins). In contrast, our LIT-LoRA method continuously adapts to user correction input and generalizes to similar future errors, reducing the number of required corrections (e.g., down to 4) and user annotation time (e.g., down to 3.18 mins).
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <!-- Abstract. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Interactive video segmentation often requires many user interventions for robust performance in challenging scenarios (e.g., occlusions, object separations, camouflage, etc.).
+            Yet, even state-of-the-art models like SAM2 use corrections only for immediate fixes without <em>learning</em>
+            from this feedback, leading to inefficient, repetitive user effort. 
+            
+          </p>
+          <p>
+            To address this, we introduce <strong>Live Interactive Training (LIT)</strong>, a novel framework for prompt-based visual systems where models also learn online from human corrections at inference time. 
+            Our primary instantiation, <strong>LIT-LoRA</strong>, implements this by continually updating a lightweight LoRA module on-the-fly. When a user provides a correction, this module is rapidly trained on that feedback, allowing the vision system to improve performance on subsequent frames of the same video.
+            Leveraging the core principles of LIT, our LIT-LoRA implementation achieves an average 18-34%  reduction in total corrections on challenging video segmentation benchmarks, with a negligible training overhead of ~0.5s per correction. We further demonstrate its generality by successfully adapting it to other segmentation models and extending it to CLIP-based fine-grained image classification. Our work highlights the promise of live adaptation to transform interactive tools and significantly reduce redundant human effort in complex visual tasks.
+          </p>
+        </div>
+      </div>
+    </div>
+    <!--/ Abstract. -->
+  </div>
+</section>
+
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Motivation - User Interaction Pattern</h2>
+        <div class="content has-text-centered">
+          <img src="./static/images/analysis.png" alt="Analysis" height="100%">
+          <div class="content has-text-justified">
+            <p class="is-size-6">
+              <strong>User interaction patterns and the impact across datasets.</strong>
+              (a) The number of user corrections follows a clear long-tailed distribution: a small fraction of challenging videos accounts for the majority of interactions.
+              (b) The challenging cases (&ge; 10 corrections) require substantially more user inputs than the dataset average.
+              (c) User feedback consistently improves segmentation performance, especially for the challenging subset.
+              (d) Corrections are not uniformly distributed in time; most prompts occur in the early to late portions of each sequence, indicating the recurrence of errors. 
+            </p>
+            <p class="is-size-6">
+              <strong>Intuition:</strong> User corrections are important for improving performance, especially for the challenging subset. But errors repeat frequently, which is why we need to <em>learn</em> from them.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Methods</h2>
+        
+        <div class="content has-text-centered">
+          <img src="./static/images/fig2_update.png" alt="Methods overview" height="100%">
+          <div class="content has-text-justified">
+            <p class="is-size-6">
+              <em>Left:</em> <strong>Overview of the LIT-LoRA framework on VOS</strong>. As the video progresses, segmentation errors may arise. When the user provides a correction (which can be time-consuming), the correction is used to train a LoRA module on-the-fly. The LoRA module is then consulted for later errors: if its prediction meets the validation criterion, it is accepted to correct the error; otherwise, the adapter is further refined using the latest correction. <em>Right:</em> <strong>LIT LoRA module illustration</strong>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--/ Motivation. -->
+</section>
+
+<section class="section"></section>
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Results</h2>
+        <h3 class="title is-4">Reducing user corrections and annotation time</h3>
+          <div class="content has-text-centered">
+            <img src="./static/images/result1.png" alt="Results" height="100%">
+            <div class="content has-text-justified">
+              <p class="is-size-6">
+                LIT-LoRA notably reduces both the number of user corrections and the total annotation time across challenging videos.
+              </p>
+            </div>
+          </div>
+        <h3 class="title is-4">Improving accuracy when fixing user corrections</h3>
+          <div class="content has-text-centered">
+            <img src="./static/images/result2.png" alt="Results" height="100%">
+            <div class="content has-text-justified">
+              <p class="is-size-6">
+                LIT-LoRA consistently achieves higher performance than the baseline under the same number of corrections. This validates the advantage of our approach
+              </p>
+            </div>
+          </div>
+        <h3 class="title is-4">Adapt to other models and tasks</h3>
+          <div class="content has-text-centered">
+            <img src="./static/images/result3.png" alt="Results" width="70%">
+            <div class="content has-text-justified">
+              <p class="is-size-6">
+                LIT-LoRA consistently achieves higher performance than the baseline under the same number of corrections. This validates the advantage of our approach
+              </p>
+            </div>
+          </div>
+        <h3 class="title is-4">Example Clips</h3>
+          <div class="content has-text-centered">
+            <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
+              <source src="./static/videos/demo1.mp4"
+                      type="video/mp4">
+            </video>
+          </div>
+          <!--/ Visual Effects. -->
+
+          <!-- Matting. -->
+          <div class="content has-text-centered">
+            <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
+              <source src="./static/videos/demo2.mp4"
+                      type="video/mp4">
+            </video>
+          </div>
+          <div class="content has-text-centered">
+            <video id="dollyzoom" autoplay controls muted loop playsinline height="100%">
+              <source src="./static/videos/demo3.mp4"
+                      type="video/mp4">
+            </video>
+          </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@article{park2021nerfies,
+  author    = {Park, Keunhong and Sinha, Utkarsh and Barron, Jonathan T. and Bouaziz, Sofien and Goldman, Dan B and Seitz, Steven M. and Martin-Brualla, Ricardo},
+  title     = {Nerfies: Deformable Neural Radiance Fields},
+  journal   = {ICCV},
+  year      = {2021},
+}</code></pre>
+  </div>
+</section>
+
+
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <a class="icon-link"
+         href="./static/videos/nerfies_paper.pdf">
+        <i class="fas fa-file-pdf"></i>
+      </a>
+      <a class="icon-link" href="https://github.com/keunhong" class="external-link" disabled>
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content">
+          <p>
+            This website is licensed under a <a rel="license"
+                                                href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+            Commons Attribution-ShareAlike 4.0 International License</a>.
+          </p>
+          <p>
+            This means you are free to borrow the <a
+              href="https://github.com/nerfies/nerfies.github.io">source code</a> of this website,
+            we just ask that you link back to this page in the footer.
+            Please remember to remove the analytics code included in the header of the website which
+            you do not want on your website.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
